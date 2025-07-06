@@ -24,3 +24,14 @@ In the dynamic realm of Marketing and Sales, assessing campaign effectiveness is
 4. Customer Engagement: Targeting the right marketing channels and tactics will lead to improved customer engagement.
 
 5. Market Trends: Analyzing external factors and industry trends will provide TechTech with a better understanding of the market landscape.
+
+#Aim of Project
+This project has well-defined objectives aimed at addressing the business challenges through LOOKER:
+
+1. Performance Analysis: Evaluate TechTech's marketing campaign performance.
+
+2. Strategy Enhancement: Identify strengths and weaknesses in marketing strategies.
+
+3. Channel Optimization: Determine the most effective marketing channels and tactics.
+
+4. Actionable Insights: Provide actionable recommendations for improving campaign effectiveness.
