@@ -40,3 +40,70 @@ This project has well-defined objectives aimed at addressing the business challe
 3. Channel Optimization: Determine the most effective marketing channels and tactics.
 
 4. Actionable Insights: Provide actionable recommendations for improving campaign effectiveness.
+
+# Data Description
+This case study contains 4 datasets and they are as follows;
+
+**1. Marketing Campaigns Table:**
+
+Campaign ID (Text): A unique identifier for each marketing campaign. 
+
+Customer ID (Text): A reference to the customer associated with the campaign.
+
+Ad Spend (Currency, e.g., USD): The amount of money spent on the campaign.
+
+Impressions (Number of Impressions): The total number of times the campaign materials were displayed to users.
+
+Clicks (Number of Clicks): The number of times users clicked on the campaign materials.
+
+Conversions (Number of Conversions): The number of desired actions taken as a result of the campaign.
+
+Sales (Currency, e.g., USD): The revenue generated directly attributed to the campaign.
+
+Campaign Start Date (Date): The date when the campaign started. Campaign End Date (Date): The date when the campaign ended.
+
+**2. Customers Table:**
+
+Customer ID (Text): A unique identifier for each customer.
+
+Age (Years): The age of the customer.
+
+Gender (Text): The gender of the customer (e.g., Male, Female, Other).
+
+Location (Text): The geographical location of the customer (e.g., City, State, Country).
+
+
+**3. Competitor Campaigns Table:**
+
+Customer Segment (Text): A categorical designation of the customer (e.g., Premium, Regular, New).
+
+Campaign ID (Text): A reference to the campaign in the Marketing Campaigns Table.
+
+Competitor ID (Text): A unique identifier for each competitor.
+
+Ad Spend (Currency, e.g., USD): The amount of money the competitor spent on their campaign.
+
+Impressions (Number of Impressions): The total number of times the competitor's campaign materials were displayed.
+
+Clicks (Number of Clicks): The number of times users clicked on the competitor's campaign materials.
+
+Conversions (Number of Conversions): The number of desired actions taken as a result of the competitor's campaign.
+
+Sales (Currency, e.g., USD): The revenue generated directly attributed to the competitor's campaign.
+
+Campaign Start Date (Date): The date when the competitor's campaign started.
+
+Campaign End Date (Date): The date when the competitor's campaign ended.
+
+
+**4. External Factors Table:**
+
+Date (Date): The date for which the external data is recorded.
+
+GDP Growth Rate (Percentage): The percentage change in Gross Domestic Product (GDP) compared to the previous period.
+
+Inflation Rate (Percentage): The percentage change in consumer price inflation compared to the previous period.
+
+Consumer Sentiment Index (Index Score): An index representing consumer sentiment and confidence.
+
+Industry Trends (Text): A description of emerging trends and developments in the industry.
