@@ -43,8 +43,8 @@ This project has well-defined objectives aimed at addressing the business challe
 
 # Data Description
 This case study contains 4 datasets and they are as follows;
-
-**1. Marketing Campaigns Table:**
+_
+_**1. Marketing Campaigns Table:**__
 
 Campaign ID (Text): A unique identifier for each marketing campaign. 
 
@@ -62,7 +62,7 @@ Sales (Currency, e.g., USD): The revenue generated directly attributed to the ca
 
 Campaign Start Date (Date): The date when the campaign started. Campaign End Date (Date): The date when the campaign ended.
 
-**2. Customers Table:**
+_**2. Customers Table:**_
 
 Customer ID (Text): A unique identifier for each customer.
 
@@ -73,7 +73,7 @@ Gender (Text): The gender of the customer (e.g., Male, Female, Other).
 Location (Text): The geographical location of the customer (e.g., City, State, Country).
 
 
-**3. Competitor Campaigns Table:**
+_**3. Competitor Campaigns Table:**_
 
 Customer Segment (Text): A categorical designation of the customer (e.g., Premium, Regular, New).
 
@@ -96,7 +96,7 @@ Campaign Start Date (Date): The date when the competitor's campaign started.
 Campaign End Date (Date): The date when the competitor's campaign ended.
 
 
-**4. External Factors Table:**
+_**4. External Factors Table:**_
 
 Date (Date): The date for which the external data is recorded.
 
