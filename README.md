@@ -25,7 +25,7 @@ In the dynamic realm of Marketing and Sales, assessing campaign effectiveness is
 
 5. Market Trends: Analyzing external factors and industry trends will provide TechTech with a better understanding of the market landscape.
 
-#Aim of Project
+# Aim of Project
 This project has well-defined objectives aimed at addressing the business challenges through LOOKER:
 
 1. Performance Analysis: Evaluate TechTech's marketing campaign performance.
