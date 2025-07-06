@@ -1,5 +1,5 @@
-# Product-Campaign-Metrics
- Comparing Marketing Campaigns against Competitors
+# Product-Campaign-Metrics (Comparing Marketing Campaigns against Competitors
+
  
 **Click on the link to view the Looker Studio**
 
