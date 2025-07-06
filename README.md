@@ -164,7 +164,7 @@ TechTech stands at a crossroads where data-driven decisions can significantly im
 
 
 
-_# How to Use_
+# How to Use
 1. Download the 4 datasets
 2. Upload them on Google looker
 3. Open Looker and navigate to "Create" then choose "Explore."
