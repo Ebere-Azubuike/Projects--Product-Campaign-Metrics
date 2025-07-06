@@ -178,4 +178,4 @@ _# How to Use_
 - In the following page, examine the data to detect duplicates and missing values.
 - Use "Record Count" by dragging unique columns from each dataset to investigate.
 
-4. Follow the step by step document guide file uploaded on the project to continue.
+4. I have uploaded a detailed step by step process document of this project to guide you.
