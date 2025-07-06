@@ -43,8 +43,8 @@ This project has well-defined objectives aimed at addressing the business challe
 
 # Data Description
 This case study contains 4 datasets and they are as follows;
-_
-_**1. Marketing Campaigns Table:**__
+
+_****1. MARKETING CAMPAIGNS TABLE:****_
 
 Campaign ID (Text): A unique identifier for each marketing campaign. 
 
@@ -62,7 +62,7 @@ Sales (Currency, e.g., USD): The revenue generated directly attributed to the ca
 
 Campaign Start Date (Date): The date when the campaign started. Campaign End Date (Date): The date when the campaign ended.
 
-_**2. Customers Table:**_
+_**2. CUSTOMERS TABLE:**_
 
 Customer ID (Text): A unique identifier for each customer.
 
@@ -73,7 +73,7 @@ Gender (Text): The gender of the customer (e.g., Male, Female, Other).
 Location (Text): The geographical location of the customer (e.g., City, State, Country).
 
 
-_**3. Competitor Campaigns Table:**_
+_**3. COMPETITOR CAMPAIGNS TABLE:**_
 
 Customer Segment (Text): A categorical designation of the customer (e.g., Premium, Regular, New).
 
@@ -96,7 +96,7 @@ Campaign Start Date (Date): The date when the competitor's campaign started.
 Campaign End Date (Date): The date when the competitor's campaign ended.
 
 
-_**4. External Factors Table:**_
+_**4. EXTERNAL FACTORS TABLE:**_
 
 Date (Date): The date for which the external data is recorded.
 
@@ -107,3 +107,19 @@ Inflation Rate (Percentage): The percentage change in consumer price inflation c
 Consumer Sentiment Index (Index Score): An index representing consumer sentiment and confidence.
 
 Industry Trends (Text): A description of emerging trends and developments in the industry.
+
+# Data Analytics Project Scope
+
+1. Data exploration and cleaning
+(Understanding the characteristics of the data and clean if necessary)
+
+2. Data Integration (Prepare the data for analysis by blending or merging relevant tables)
+ 
+3. Data analysis (Analyzing the data to generate insights that will be visualized)
+   
+4. Data visualization and dashboard design
+(creating visual representations to communicate insights effectively)
+
+5. Interpretation and insights generation
+(Interpret the results and extract meaningful insights)
+
