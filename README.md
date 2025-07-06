@@ -1,5 +1,7 @@
 # Product-Campaign-Metrics
  Comparing Marketing Campaigns against Competitors
+Click on the link to view the LOOKER STUDIO DASHBOARD
+https://lookerstudio.google.com/u/0/reporting/98a88d43-155b-4f37-8463-41931f93eb15/page/p_somw71f9od/edit
 
 # Business Problem
 TechTech faces a multifaceted business challenge that demands astute resolution. The core elements of this challenge encompass:
