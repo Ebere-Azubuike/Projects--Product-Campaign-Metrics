@@ -135,12 +135,15 @@ Industry Trends (Text): A description of emerging trends and developments in the
 TechTech is navigating a competitive market, characterized by a diverse customer base and the constant need for strategic marketing decisions. The recent analysis of their marketing campaigns, customer demographics, and external factors reveals a multifaceted picture of opportunities, challenges, and areas for strategic enhancement.
 
 **Campaign Performance: A Mixed Bag of Results**
+
 TechTech's marketing campaigns exhibit a wide range of ROI, signaling variability in effectiveness. While some campaigns have achieved extraordinary success, others have underperformed, indicating room for optimization. Compared to competitors, TechTech invests more in its campaigns, resulting in higher impressions, clicks, and conversions, yet the competitors show a slightly more consistent performance.
 
 **Customer Demographics: A Key to Tailored Marketing**
+
 The customer base is diverse, spanning various ages, genders, and locations, with a notable inclination towards female customers and a concentration in urban areas like Chicago. The responses to marketing campaigns vary significantly across different customer segments, highlighting the potential for targeted marketing strategies.
 
 **External Factors: Limited Impact but Worth Monitoring**
+
 Economic indicators such as GDP growth rate, inflation rate, and consumer sentiment index show limited direct correlation with campaign performance. However, these factors still hold value for strategic planning, especially in anticipating market trends and consumer behavior shifts.
 
 # Strategic Recommendations
@@ -150,11 +153,29 @@ Economic indicators such as GDP growth rate, inflation rate, and consumer sentim
 
 **Data-Driven Customer Targeting:** Leveraging the diverse customer demographics, TechTech can develop more personalized marketing strategies, focusing on the most responsive segments to maximize engagement and conversions.
 
-**Competitive Learning:** Understanding the consistent performance of competitors can provide learnings for TechTech. Emphasizing strategies that bring steady success could be key.
+**Competitive Learning:** 
+Understanding the consistent performance of competitors can provide learnings for TechTech. Emphasizing strategies that bring steady success could be key.
 
-**Seasonality and Market Awareness:** While external factors aren't the primary drivers, understanding seasonal trends and staying abreast of market changes can provide an edge in timing and positioning campaigns.
+**Seasonality and Market Awareness:**
+While external factors aren't the primary drivers, understanding seasonal trends and staying abreast of market changes can provide an edge in timing and positioning campaigns.
 
 # The Way Forward
 TechTech stands at a crossroads where data-driven decisions can significantly impact its market presence. By focusing on strategic campaign optimization, targeted marketing based on customer demographics, and a keen eye on the market pulse, TechTech can enhance its brand visibility, improve ROI, and effectively compete in the dynamic market landscape.
 
 
+
+_# How to Use_
+1. Download the 4 datasets
+2. Upload them on Google looker
+3. Open Looker and navigate to "Create" then choose "Explore."
+- In the Explore section, select "Create New Data Source."
+- Choose the connector, in this case, "Connect to CSV."
+- Upload the file by either dragging it or clicking to upload.
+- Check the status column to ensure the file is uploaded.
+- Click on "Connect" to proceed.
+- On the next page, clean and correct any inconsistencies in the table, such as checking data types for analysis.
+- If everything looks good, click "Apply."
+- In the following page, examine the data to detect duplicates and missing values.
+- Use "Record Count" by dragging unique columns from each dataset to investigate.
+
+4. Follow the step by step document guide file uploaded on the project to continue.
