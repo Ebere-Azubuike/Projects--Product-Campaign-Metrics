@@ -1,2 +1,2 @@
-# Projects--Product-Campaign-Metrics
+# Product-Campaign-Metrics
  Comparing Marketing Campaigns against Competitors
